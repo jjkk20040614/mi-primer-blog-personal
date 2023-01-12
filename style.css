@@ -1,0 +1,32 @@
+*  {
+    color: rgb(103, 100, 100);
+    
+}
+
+* {
+    font-style: oblique;
+}
+
+h1  {
+    color: black;
+}
+
+h2 {
+    color: black;
+}
+
+a {
+    color: red;
+}
+
+span {
+    color: black;
+}
+
+ul li {
+    color: black; 
+}
+
+p {
+   min-width: 75ch;
+}
